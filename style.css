@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	font-family: helvetica;
+}
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
+#logo {
+	height: 60px;	
+	width: 60px;
+}
